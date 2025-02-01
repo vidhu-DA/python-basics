@@ -1,0 +1,2 @@
+## This note is to make a note of all the packages
+ipykernel
